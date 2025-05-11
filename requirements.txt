@@ -1,0 +1,6 @@
+aiogram==2.25.2
+Django
+stripe
+celery
+psycopg2
+redis
